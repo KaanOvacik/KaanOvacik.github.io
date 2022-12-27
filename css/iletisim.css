@@ -1,0 +1,45 @@
+body{
+    background-color: cornflowerblue;
+}
+.iletisim form{
+    text-align: center;
+    width: 600px;
+    font-size: 20px;
+    
+}
+
+.iletisim input{
+    width: 100%;
+    margin-bottom: 20px;
+    height: 20px;
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+}
+
+.iletisim input:hover{ 
+    border-bottom: 2px solid red;
+}
+
+.iletisim textarea{
+    width: 100%;
+    margin-bottom: 9px;
+    resize: none;
+    height: 60px;
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid black;
+}
+
+.iletisim textarea:hover{ 
+    border-bottom: 2px solid red;
+}
+
+.iletisim button{
+    background-color: darkorange;
+    width: 100%;
+    border: 2px solid darkorange;
+}
+
+
+

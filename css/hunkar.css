@@ -1,0 +1,43 @@
+body{
+    background-color: darkseagreen;
+}
+.aciklama{
+    font-size: 20px;
+    clear: both;
+    width: 500px;
+    height: 500px;
+    float: left;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 40px;
+
+}
+
+.hunkar{
+    margin-left: 5px;
+}
+
+.resim{
+    float: left ;
+    width: 160px;
+    height: 160px;
+   
+}
+
+.resim img{
+    width: 260;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.nasilPisirilir{
+    font-size: 20px;
+    clear: both;
+    width: 13   00px;
+    height: 500px;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 300px;
+    
+}
